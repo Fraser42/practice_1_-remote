@@ -1,7 +1,14 @@
-        body{
+       
+       body{
             background-color: antiquewhite;
+                margin: 20px;
         }
 
-h1 {color: maroon;}
+    h1  {
+        color: maroon;
+    }
 
-        
+    p   {
+        color:blue;
+        font-size: 1.3em;
+    }    
