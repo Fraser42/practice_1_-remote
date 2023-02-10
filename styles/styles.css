@@ -1,13 +1,19 @@
-        body{
-            background-color: antiquewhite;
-        }
+       
+    body{
+        background-color: antiquewhite;
+        margin: 20px;
+    }
 
-h1 {
+
+    h1 {
     color: maroon;
-}
+    }
 
-h2 {
+    h2 {
     color:navy
-}
+    }
 
-        
+    p   {
+        color:blue;
+        font-size: 1.3em;
+    }    
